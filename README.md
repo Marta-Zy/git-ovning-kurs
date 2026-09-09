@@ -1,4 +1,4 @@
 \# Git-övning
 
-Det här är mitt övningsarkiv.
+Det här är mitt övningsarkiv. Jag försöker öva bra på Git.
 
